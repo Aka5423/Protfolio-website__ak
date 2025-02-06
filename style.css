@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    
+        font-family: "Young Serif", serif;
+        margin-left: 30px;
+        margin-top: 20px;
+      }
+.section-one{
+    background-color: black;
+    color: white;
+}
+.section-one__heading{
+    color: aqua;
+  font-size: 60px;
+  padding-left:20px;
+}
+.section-one__contact{
+
+    background-color:orangered;
+    color:black;
+    text-decoration: null;
+   
+    margin-left:20px;
+    
+    
+}
+.section-one__role{
+    padding-left: 20px;
+}
+.section-three{
+    background-color: chocolate;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+    
+}
+.section-three__desc li,.section-four__desc li{
+    list-style: none;
+    vertical-align:top;
+ 
+}
+.section-four
+{
+    background-color:lightpink;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+   vertical-align: top;
+    
+}
+
+.section-five
+{
+    background-color: black;
+    
+    color:white;
+}
+.section-five a{
+    color:skyblue;
+}
+.table-input,.table-textarea,.table-sumbit
+{
+    margin-top:10px;
+}
+.table-sumbit{
+    background-color: orangered;
+    margin-bottom: 10px;
+}
+
+
+
+      
